@@ -1,30 +1,31 @@
-Phantom by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+# 🥁 Banda de Paz – Proyecto Web Interactivo
 
+Este repositorio contiene el desarrollo de **Banda de Paz**, una página web interactiva que celebra la cultura musical y el espíritu de las bandas escolares. El proyecto está diseñado con tecnologías web modernas y se enfoca en ofrecer una experiencia visual atractiva y educativa.
 
-This is Phantom, a simple design built around a grid of large, colorful, semi-interactive
-image tiles (of which you can have as many or as few as you like). Makes use of some
-SVG and animation techniques I've been experimenting with on that other project of mine
-you may have heard about (https://carrd.co), and includes a handy generic page for whatever.
+🔗 **Sitio web del proyecto**  
+[https://gersonramos001.github.io/bandadepaz.io/](https://gersonramos001.github.io/bandadepaz.io/)
 
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
+---
 
-(* = not included)
+## 📌 Descripción
 
-AJ
-aj@lkn.io | @ajlkn
+La página presenta una interfaz colorida y dinámica que destaca elementos visuales relacionados con bandas de paz, incluyendo secciones informativas, imágenes temáticas y efectos visuales. Está orientada a estudiantes, docentes y entusiastas de la música escolar.
 
+## 🧪 Tecnologías utilizadas
 
-Credits:
+- **HTML5** – Estructura semántica del sitio
+- **CSS3** – Estilos visuales y diseño responsivo
+- **JavaScript** – Comportamientos interactivos y animaciones
 
-	Demo Images:
-		Unsplash (unsplash.com)
+## 📁 Estructura del proyecto
 
-	Icons:
-		Font Awesome (fontawesome.io)
+bandadepaz.io/ ├── index.html ├── estilos/ │ └── estilo.css ├── scripts/ │ └── main.js └── assets/ └── img/
 
-	Other:
-		jQuery (jquery.com)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+## 🚀 Cómo visualizar el proyecto
+
+1. Clona el repositorio:
+   ```bash
+   git clone https://github.com/GersonRamos001/bandadepaz.io.git
+
+👨‍💻 Autor
+Gerson Ramos Especialista en automatización, eficiencia operativa y desarrollo web.
